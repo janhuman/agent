@@ -1,0 +1,6 @@
+ uvicorn lbai_agent1_main:app --host 0.0.0.0 --port 7090 --reload 
+ streamlit run dev_run.py
+
+ 开发测试服务器    192.168.2.33      test1     123456
+
+ 

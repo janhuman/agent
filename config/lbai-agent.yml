@@ -1,0 +1,2 @@
+# lbai-agent configuration file for the LBAI Agent 
+redis_config: {db: 3, host: 192.168.2.217, password: fgh45fghfgh56ujuuuuv5tefger, port: 6379}
